@@ -11,7 +11,7 @@
     loaderFill: 1.4,   // seconds the logo takes to fill from 0 to 100%
     bandSpeed: 30,     // seconds for one loop of the discipline band
     bandBoost: 5,      // how much a fast scroll speeds the band up
-    reelImage: 'https://cdn.prod.website-files.com/6aecdcb15d7b730d4d4bdba7/6aece1a9434c96b049de1d0e_OG%20Image.png' // photo for the twelve showreel strips (an Assets URL); empty = the launch film poster
+    reelImage: 'https://cdn.prod.website-files.com/6aecdcb15d7b730d4d4bdba7/6af6319ddeb177f9145370be_me_2.webp' // photo for the twelve showreel strips (an Assets URL); empty = the launch film poster
   };
 
   /* H0 — DOT FIELD [data-field] (Home hero): a dot on every half column; the pointer pushes and grows the dots,
